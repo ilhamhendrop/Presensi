@@ -1,0 +1,7 @@
+#Tue Dec 05 11:24:07 ICT 2017
+base.0=F\:\\Android\\Presensi5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3151e44ebe5b60292d37d02c6dddd09071108970
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android\\Presensi5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd30c83a0a8c9e66517ed68421f7ddf370db82b5\\classes.dex
+base.1=F\:\\Android\\Presensi5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bd30c83a0a8c9e66517ed68421f7ddf370db82b5
+file.0=F\:\\Android\\Presensi5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3151e44ebe5b60292d37d02c6dddd09071108970\\classes.dex

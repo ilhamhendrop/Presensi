@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\aa6c12e1e29e719332b2f270585b53b8d0a100e4\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\aa6c12e1e29e719332b2f270585b53b8d0a100e4\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\mytransition.xml",
+        "source": "F:\\Android\\Presensi5\\app\\src\\main\\res\\anim\\mytransition.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\742e3c79203dd2bd3ad07c2562e989adad52db40\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\742e3c79203dd2bd3ad07c2562e989adad52db40\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

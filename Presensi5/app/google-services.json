@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "938897820489",
+    "firebase_url": "https://presensi-6e8de.firebaseio.com",
+    "project_id": "presensi-6e8de",
+    "storage_bucket": "presensi-6e8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938897820489:android:0e11b148a2b39c7c",
+        "android_client_info": {
+          "package_name": "com.example.gom247.presensi5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938897820489-pqhfiihmdchpr31r73mr65gfinrbl9fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gom247.presensi5",
+            "certificate_hash": "134a8efc1a8f4dd2190a40cdd6648ae92ee37728"
+          }
+        },
+        {
+          "client_id": "938897820489-infk9u65js3gchh7kq9mnjahrb8lmjhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWDohmxX181jUpHcvrVwlWk9UHSUU9yu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938897820489-infk9u65js3gchh7kq9mnjahrb8lmjhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

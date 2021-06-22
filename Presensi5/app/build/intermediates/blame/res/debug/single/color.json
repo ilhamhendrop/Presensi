@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a962a43df02eab7339161679c5328565927a101b\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a962a43df02eab7339161679c5328565927a101b\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a962a43df02eab7339161679c5328565927a101b\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a962a43df02eab7339161679c5328565927a101b\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\742e3c79203dd2bd3ad07c2562e989adad52db40\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Presensi5\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Gom247\\.android\\build-cache\\a918910fe3c718f5a3f316c7e30d3ff30987fcc8\\output\\res\\color\\switch_thumb_material_light.xml"
+    }
+]

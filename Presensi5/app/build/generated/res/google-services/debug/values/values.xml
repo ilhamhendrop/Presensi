@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">938897820489-infk9u65js3gchh7kq9mnjahrb8lmjhh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://presensi-6e8de.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">938897820489</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWDohmxX181jUpHcvrVwlWk9UHSUU9yu8</string>
+    <string name="google_app_id" translatable="false">1:938897820489:android:0e11b148a2b39c7c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWDohmxX181jUpHcvrVwlWk9UHSUU9yu8</string>
+    <string name="google_storage_bucket" translatable="false">presensi-6e8de.appspot.com</string>
+    <string name="project_id" translatable="false">presensi-6e8de</string>
+</resources>

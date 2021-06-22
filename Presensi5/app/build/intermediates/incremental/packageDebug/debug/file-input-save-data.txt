@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 16 21:19:03 ICT 2017
+0.baseType=DIRECTORY
+0.base=F\:\\Android\\Presensi5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+0.path=classes.dex
+0.set=DEX
+count=1

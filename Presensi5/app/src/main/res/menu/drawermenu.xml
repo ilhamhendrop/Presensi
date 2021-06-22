@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_presensi"
+            android:icon="@drawable/ic_school_black_48dp"
+            android:title="Presensi" />
+        <item
+            android:id="@+id/nav_jadwal"
+            android:icon="@drawable/ic_today_black_48dp"
+            android:title="Jadwal" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Logout" />
+    </group>
+</menu>
